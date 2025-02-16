@@ -8,7 +8,7 @@ do
 	echo
 	echo "###########################################"
 	echo "################ Making the file ##########"
-	touch $FILENUMBER.txt > history
+	touch $FILENUMBER.txt >> history
 	echo "File Successfully Created"
 	echo
 	echo "###########################################"
